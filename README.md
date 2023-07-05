@@ -1,4 +1,4 @@
-# hyperskill-flashcards
+# flashcards
 After one month of hellish practice, i made a simple game =)
 
 Functions:
